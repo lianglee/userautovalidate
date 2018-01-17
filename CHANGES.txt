@@ -1,0 +1,7 @@
+Compatibility Fix v3.1
+
+* make component work with Ossn 3.x and 4.x
+
+Bugfixes v3.0 
+
+* Requirements issue fixes.
