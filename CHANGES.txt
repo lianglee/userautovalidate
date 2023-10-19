@@ -1,3 +1,7 @@
+v4.0
+
+- Make auto login
+
 Compatibility Fix v3.1
 
 * make component work with Ossn 3.x and 4.x

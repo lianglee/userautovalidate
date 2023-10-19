@@ -9,7 +9,6 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $en = array(
-   	'register:ok:message' => "Your account has been registered. You can now login.",
-	'account:created:email' => "Your account has been registered. You can now login.",
+	'account:created:email' => "Via konto estas registrita. Ensalutu vin en la retejon nun .....",
 );
 ossn_register_languages('en', $en);
